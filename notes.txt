@@ -1,3 +1,14 @@
 1. Install express - npm install express --save
-2. Heroku app link - https://lit-dawn-17537.herokuapp.com/
-3. Link to code push to - https://git.heroku.com/lit-dawn-17537.git
+
+
+/* Heroku Deployment Steps */
+
+1. heroku cli install
+2. heroku login
+3. heroku create
+4. git push heroku master
+-> Heroku app link - https://lit-dawn-17537.herokuapp.com/
+-> Link to code push to - https://git.heroku.com/lit-dawn-17537.git
+
+5. Follow up deployments
+-> 
