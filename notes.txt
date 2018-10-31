@@ -11,4 +11,11 @@
 -> Link to code push to - https://git.heroku.com/lit-dawn-17537.git
 
 5. Follow up deployments
--> 
+-> just commit your code and push to heroku
+
+/* Google App use for login */
+
+1. Go to console.developers.google.com
+2. Create a new app for our emaily-dev
+3. Create Oauth credentials
+4. Note down Client Id and Client Secret
