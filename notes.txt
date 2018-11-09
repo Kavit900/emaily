@@ -19,3 +19,13 @@
 2. Create a new app for our emaily-dev
 3. Create Oauth credentials
 4. Note down Client Id and Client Secret
+5. Use these values in passport
+
+/* After nodemon installation */
+
+-> Run using the command npm run dev
+
+/* Mongoose and mondodb connection */
+
+-> npm install --save mongoose
+-> npm install --save cookie-session
